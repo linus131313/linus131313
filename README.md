@@ -11,7 +11,7 @@
 
 Senior software engineer with 10+ years of shipping experience, from weekend HTML at 14 to production AI agents today. Most of my work lives in private repositories, so this profile understates the picture - the full view is at [linus-teklenburg.de](https://www.linus-teklenburg.de).
 
-Currently Assistant Manager & AI Ambassador at KPMG Germany, working on Trusted AI enablement, MCP-based agent systems, and EU AI Act compliance tooling. Previously co-founder of Stratek (4½ years, 10+ Flutter & web apps shipped to App Store / Google Play), and freelance web developer since 2017.
+Currently Assistant Manager & AI Ambassador at one of the Big4, working on Trusted AI enablement, MCP-based agent systems, and EU AI Act compliance tooling. Previously co-founder of Stratek (4½ years, 10+ Flutter & web apps shipped to App Store / Google Play), and freelance web developer since 2017.
 
 ### Focus areas
 
