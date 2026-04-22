@@ -20,13 +20,6 @@ Currently Assistant Manager & AI Ambassador at KPMG Germany, working on Trusted 
 - **Cloud & Delivery** — Azure OpenAI, AWS, ServiceNow, Docker, CI/CD
 - **Full-Stack** — React, Next.js, Flutter, TypeScript, FastAPI, PostgreSQL
 
-### Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=linus131313&show_icons=true&count_private=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=linus131313&hide_border=true" alt="GitHub streak" />
-</p>
-
 ### Contact
 
 - Website — [linus-teklenburg.de](https://www.linus-teklenburg.de)
