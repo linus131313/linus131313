@@ -1,4 +1,4 @@
-# Linus Teklenburg
+# Hey hey 👋
 
 **AI Engineer & Researcher** · Munich, Germany · [linus-teklenburg.de](https://www.linus-teklenburg.de)
 
