@@ -1,5 +1,4 @@
-# Heyoo, Thanks for stopping by 👋
-## My name's Linus - but you can call me anytime ;)
+# Hey, Thanks for stopping by 👋
 
 **AI Engineer & Researcher** · Munich, Germany · [linus-teklenburg.de](https://www.linus-teklenburg.de)
 
